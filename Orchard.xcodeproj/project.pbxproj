@@ -49,6 +49,11 @@
 			path = OrchardUITests;
 			sourceTree = "<group>";
 		};
+		E0C669AD2EC7472A00A98500 /* assets */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = assets;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +85,7 @@
 		C25FE6DE2E00C69400A8CD32 = {
 			isa = PBXGroup;
 			children = (
+				E0C669AD2EC7472A00A98500 /* assets */,
 				C25FE6E92E00C69400A8CD32 /* Orchard */,
 				C25FE6F82E00C69500A8CD32 /* OrchardTests */,
 				C25FE7022E00C69500A8CD32 /* OrchardUITests */,
